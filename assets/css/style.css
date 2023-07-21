@@ -706,9 +706,21 @@ ol.carousel-indicators li.active {
   background: transparent;
 }
 
+ol.carousel-indicators li{
+  background:  #798083;
+  ;
+}
+
 ol.carousel-indicators li.active {
   background:  #37b3ed;
   ;
 }
+
+/* #myCarousel .carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 100vh;
+  overflow: hidden;
+} */
 
 
